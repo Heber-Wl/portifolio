@@ -430,7 +430,15 @@ body {
     z-index: 2;
     position: relative;
 }
-
+.div-icone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2b528d;
+    padding: 30px;
+    border-radius: 15px;
+    border: solid 1px #ffffff33;
+}
 .project-content {
     padding: 2rem;
 }
